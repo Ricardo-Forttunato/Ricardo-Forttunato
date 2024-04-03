@@ -1,6 +1,9 @@
 ## Hi, I'm João Ricardo front-end developer 👋
-##
 
+I'm happy to have you visiting my Github and I would greatly appreciate receiving your comments to improve my codes.
+My aim is to enhance my programming skills and provide the community with optimal solutions to various problems.
+
+##
 <div>
   <a href="https://github.com/Ricardo-Forttunato">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Forttunato&show_icons=true&theme=swift">
