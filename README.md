@@ -14,7 +14,7 @@ My aim is to enhance my programming skills and provide the community with optima
 <h4>Bellow you will find the programming languages I have learned in the last years getting certified through courses and bootcamps</h4>
 
 <div style="display: inline_block"><br>
-  <h1 style="display:flex; justify-content: space-evenly; border: 1px solid rgb(243, 242, 242); border-radius:5px;">FRONT-END</h1>
+  <h1 style="display:flex; justify-content: space-evenly; border: 1px solid rgb(243, 242, 242); border-radius:5px;">Front end skills</h1>
   <br>
   <div style="display:flex; justify-content:space-evenly;">
     <img height="70em" alt="HTML5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
@@ -31,7 +31,7 @@ My aim is to enhance my programming skills and provide the community with optima
     
   </div>
   <br>
-  <h1 style="display:flex; justify-content: space-evenly;border: 1px solid rgb(243, 242, 242); border-radius:5px;">Others</h1>
+  <h1 style="display:flex; justify-content: space-evenly;border: 1px solid rgb(243, 242, 242); border-radius:5px;">Others skills</h1>
   <br>
   <div style="display:flex; justify-content: space-evenly;">
     <img height="70em" alt=" Node js logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
