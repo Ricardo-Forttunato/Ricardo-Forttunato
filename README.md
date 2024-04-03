@@ -1,4 +1,4 @@
-## Hi, I'm João Ricardo a junior front-end development 👋
+## Hi, I'm João Ricardo front-end developer 👋
 ##
 
 <div>
