@@ -16,7 +16,7 @@ My aim is to enhance my programming skills and provide the community with optima
 <div style="display: inline_block"><br>
   <h1 style="display:flex; justify-content: space-evenly; border: 1px solid rgb(243, 242, 242); border-radius:5px;">FRONT-END</h1>
   <br>
-  <div style="display:flex; justify-content:space-evenly; gap:">
+  <div style="display:flex; justify-content:space-evenly;">
     <img height="70em" alt="HTML5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
     <img height="70em" alt="CSS3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
     <img height="70em" alt=" javascritp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -25,8 +25,10 @@ My aim is to enhance my programming skills and provide the community with optima
   <h2 style="display:flex; justify-content: space-evenly;border: 1px solid rgb(243, 242, 242); border-radius:5px;">Frameworks</h2>
   <br>
   <div style="display:flex; justify-content: space-evenly;">
-    <img height="70em" alt="React logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+    <img height="70em" alt=" Bootstrap logo " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
     <img height="70em" alt=" Jquery logo " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg"/>
+    <img height="70em" alt="React logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+    
   </div>
   <br>
   <h1 style="display:flex; justify-content: space-evenly;border: 1px solid rgb(243, 242, 242); border-radius:5px;">Others</h1>
