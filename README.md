@@ -1,6 +1,7 @@
 ## Hi, I'm João Ricardo front-end developer 👋
 
 I'm happy to have you visiting my Github and I would greatly appreciate receiving your comments to improve my codes.
+<br>
 My aim is to enhance my programming skills and provide the community with optimal solutions to various problems.
 
 ##
