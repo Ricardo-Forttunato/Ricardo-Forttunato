@@ -42,13 +42,5 @@ My aim is to enhance my programming skills and provide the community with optima
     <img height="70em" alt="Git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img height="70em" alt="Github logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"/>
     <img height="70em" alt="My SQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  </div>
-  <br>
-  <h2 style="display:flex; justify-content: space-evenly;border: 1px solid rgb(243, 242, 242); border-radius:5px;">Frameworks</h2>
-  <br>
-  <div style="display:flex; justify-content: space-evenly;">
     <img height="70em" alt="Dotnet logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
-  </div><br>
-</div>
-
-
+  </div>
