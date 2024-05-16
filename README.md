@@ -11,7 +11,8 @@ My aim is to enhance my programming skills and provide the community with optima
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo-Forttunato&layout=donut&langs=count=16&show_icons=true&theme=swift">
   </div><br>
 
-  ![contribution](https://github.com/Ricardo-Forttunato/Ricardo-Forttunato/blob/output/github-contribution-grid.svg)
+  <div><img height="200em" src="https://github.com/Ricardo-Forttunato/Ricardo-Forttunato/blob/output/github-contribution-grid.svg" ></div>
+  
   <br>
     
 <h4>Bellow you will find the programming languages I have learned in the last years getting certified through courses and bootcamps</h4>
