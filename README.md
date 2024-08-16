@@ -19,9 +19,11 @@ My aim is to enhance my programming skills and provide the community with optima
   <h1 style="display:flex; justify-content: space-evenly; border: 1px solid rgb(243, 242, 242); border-radius:5px;">Front end skills</h1>
   <br>
   <div style="display:flex; justify-content:space-evenly;">
-    <img height="60em" alt="HTML5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-    <img height="60em" alt="CSS3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-    <img height="60em" alt=" javascritp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img height="60em" alt="HTML5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
+    <img height="60em" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
+    <img height="60em" alt=" javascritp icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img height="60em" alt="React icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
   </div>
   <br>
   <h2 style="display:flex; justify-content: space-evenly;border: 1px solid rgb(243, 242, 242); border-radius:5px;">Frameworks</h2>
