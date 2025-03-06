@@ -20,7 +20,7 @@ My aim is to enhance my programming skills and provide the community with optima
   <br>
   <div style="display:flex; justify-content:space-evenly;">
     <img height="60em" alt="HTML5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-    <img height="60em" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
+    <img height="60em" alt="CSS3 icon" src="https://raw.githubusercontent.com/CSS-Next/logo.css/refs/heads/main/primary/css.webp"/>
     <img height="60em" alt=" javascritp icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   </div>
   <br>
