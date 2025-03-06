@@ -21,7 +21,8 @@ My aim is to enhance my programming skills and provide the community with optima
   <div style="display:flex; justify-content:space-evenly;">
     <img height="60em" alt="HTML5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
     <img height="60em" alt="CSS3 icon" src="https://raw.githubusercontent.com/CSS-Next/logo.css/refs/heads/main/primary/css.webp"/>
-    <img height="60em" alt=" javascritp icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img height="60em" alt=" Javascritp icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img height="60em" alt=" Typescritp icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   </div>
   <br>
   <h2 style="display:flex; justify-content: space-evenly;border: 1px solid rgb(243, 242, 242); border-radius:5px;">Frameworks and Librarys</h2>
