@@ -4,16 +4,7 @@ I'm happy to have you visiting my Github and I would greatly appreciate receivin
 <br>
 My aim is to enhance my programming skills and provide the community with optimal solutions to various problems.
 
-##
-<div>
-  <a href="https://github.com/Ricardo-Forttunato">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Forttunato&show_icons=true&theme=swift">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo-Forttunato&layout=donut&langs=count=16&show_icons=true&theme=swift">
-  </div><br>
-    
-  <br>
-    
-<h4>Bellow, you'll find the programming skills I have acquired over the past years through certifications, courses, and bootcamps:</h4>
+Bellow, you'll find the programming skills I have acquired over the past years through certifications, courses, and bootcamps:
 
 <div style="display: inline_block"><br>
   <h1 style="display:flex; justify-content: space-evenly; border: 1px solid rgb(243, 242, 242); border-radius:5px;">Front end skills</h1>
@@ -57,4 +48,11 @@ My aim is to enhance my programming skills and provide the community with optima
   <div style="display:flex; justify-content: space-evenly;">
     <img height="60em" alt="My SQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
+  <br>
+  <div>
+    <a href="https://github.com/Ricardo-Forttunato">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Forttunato&show_icons=true&theme=swift">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo-Forttunato&layout=donut&langs=count=16&show_icons=true&theme=swift">
+  </div>
+<br>
 </div>
