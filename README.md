@@ -30,7 +30,6 @@ My aim is to enhance my programming skills and provide the community with optima
     <img height="60em" alt=" Bootstrap logo " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
     <img height="60em" alt=" Jquery logo " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg"/>
     <img height="60em" alt="React logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-    <img height="60em" alt=" Next.js icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img height="60em" alt=" Sass icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   </div>
   <br>
