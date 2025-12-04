@@ -19,7 +19,8 @@ Bellow, you'll find the programming skills I have acquired over the past years t
 
 ## Github Stats
 <div>
-    <a href="https://github.com/Ricardo-Forttunato">
+    <a href="https://github.com/Ricardo-Forttunato">        
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Forttunato&show_icons=true&theme=swift">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo-Forttunato&layout=donut&langs=count=16&show_icons=true&theme=swift">
+    </a>
 </div>
