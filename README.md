@@ -1,20 +1,33 @@
-## Hi, I'm João Ricardo front-end developer 👋
+<h3 align="center">Hi, I'm João Ricardo front-end developer 👋</h3>
 
-I'm happy to have you visiting my Github and I would greatly appreciate receiving your comments to improve my codes.
+<p align="center">I'm happy to have you visiting my Github and I would greatly appreciate receiving your comments to improve my codes.</p>    
+<p align="center">My aim is to enhance my programming skills and provide the community with optimal solutions to various problems.</p>
 <br>
-My aim is to enhance my programming skills and provide the community with optimal solutions to various problems.
+<p align="center">Bellow, you'll find the programming skills I have acquired over the past years through certifications, courses, and bootcamps:</p>
 
-Bellow, you'll find the programming skills I have acquired over the past years through certifications, courses, and bootcamps:
+<h2 align="center"> Front-end Skills</h2>
 
-## Front-end Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,ts" />
+  </a>
+</p>
+<br>
+<h2 align="center"> Framework, Libraries, and precompilers</h2>
 
-## Framework, Libraries, and precompilers
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,angular,nodejs,sass)](https://skillicons.dev)
-
-## Other Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,py,flutter,git,github,vscode,mysql&perline=6)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,angular,nodejs,sass" />
+  </a>
+</p>
+<br>
+<h2 align="center"> Other Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,flutter,git,github,vscode,mysql" />
+  </a>
+</p>
+<br>
 <br>
 
 ## Github Stats
